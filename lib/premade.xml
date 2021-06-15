@@ -1,0 +1,419 @@
+<?xml version="1.0" ?> 
+<premades>
+    <arms>
+        <workout id="arms1">
+            1.  Close-grip Chin-ups + Tight Tricep Push-ups  &#xD;
+            2.  Elastic Curls + Plate Tricep Extension  &#xD;
+            3.  Dumbell Curls + Dumbell Bench Press  &#xD;
+            4.  Elastic Rows on Bench + Crunches on Bench  &#xD;
+            5.  Elastic Tricep Extension + Back Stretch  &#xD;
+            6.  Calf Raises  &#xD;
+            7.  Checking for Rain  &#xD;
+            8.  Back Stretch  &#xD;
+        </workout>
+        <workout id="arms2">
+            1.	Elastic Curls + Elastic Anchored Tricep Extensions  &#xD;
+            2.	Dumbell Curls + Kettlebell Tricep Extension  &#xD;
+            3.	Close-grip Chin-ups + Overhead Dumbell Tricep Extension  &#xD;
+            4.	Arnold Press  &#xD;
+            5.	Dumbell Bench Press  &#xD;
+            6.	Calf Raises  &#xD;
+            7.	Checking for Rain  &#xD;
+            8.  Back Stretch  &#xD;
+        </workout>
+        <workout id="arms3">
+            1.	Bench Back Dumbell Preacher Curls  &#xD;
+            2.	Dumbell Concentration Curls  &#xD;
+            3.	Elastics Curls  &#xD;
+            4.	Elastic Skull Crushers  &#xD;
+            5.	Pull-up Bar Dips  &#xD;
+            6.	Dumbell Close-grip Bench Press  &#xD;
+            7.	Elastic Tricep Extension (1 Giant set)  &#xD;
+            8.	Calf Raises  &#xD;
+        </workout>
+        <workout id="arms4">
+            1.	Elastic Barbell Curl Superset with Elastic Pull-down  &#xD;
+            2.	Elastic Reverse Curls  &#xD;
+            3.	Seated Dumbell Tricep Extensions  &#xD;
+            4.	Bench Dumbell Preacher Curls  &#xD;
+            5.	Single Arm Elastic Tricep Extensions  &#xD;
+            6.	Seated Incline Dumbell Curls  &#xD;
+            7.	Push-up grips and chairs Dips  &#xD;
+            8.  Back Stretch  &#xD;
+        </workout>
+        <workout id="arms5">
+            1.	Seated alternating Dumbell Curls  &#xD;
+            2.	Bench Dumbell Preacher Curls  &#xD;
+            3.	Elastic Hammer Curl  &#xD;
+            4.	Lying Tricep Extensions  &#xD;
+            5.	Elastic Tricep Pressdown  &#xD;
+            6.	Single Arm Overhead Dumbell Extension  &#xD;
+            7.	Reverse Dumbell Curls  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="arms6">
+            1.	Elastic Tricep Press Downs  &#xD;
+            2.	Superset: Lying Dumbell Extensions + Elastic Rope Grip Pulldowns  &#xD;
+            3.	Superset: Plate on Lap Bench Dips + Close Grip Pushups  &#xD;
+            4.	Superset: Elastic Barbell Curls + High Elastic Curls (anchor at shoulder level)  &#xD;
+            5.	Bench Dumbell Preacher Curls  &#xD;
+            6.	Dumbell Hammer Curls  &#xD;
+            7.	Superset: Standing and Seated Calf Raises  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="arms7">
+            1.	Superset: Elastic curls + Elastic Overhead Tricep Extensions  &#xD;
+            2.	Superset: Elastic Tricep Pushdown + Overhead Plate Tricep Extensions  &#xD;
+            3.	Superset: Elastic Door Anchored Shortbar Curl + Dumbell Curls  &#xD;
+            4.	Superset: Elastic Barbell Curls + Dumbell Tricep Bench Press  &#xD;
+            5.	Superset: Chin-ups + Dips  &#xD;
+            6.	Calf Raises  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Arm Stretch  &#xD;
+        </workout>
+    </arms>
+    <legs>
+        <workout id="legs1">
+            1.	Dumbell Lunges  &#xD;
+            2.	Kettle Bell Squats  &#xD;
+            3.	Dumbell Deadlifts  &#xD;
+            4.	Swiss Ball Hamstring Curl  &#xD;
+            5.	Swiss Ball Leg Dips  &#xD;
+            6.	Calf Raises  &#xD;
+            7.	Leg Stretch Program  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="legs2">
+            1.	Dumbell Squats  &#xD;
+            2.	Dumbell Lunges  &#xD;
+            3.	Dumbell Deadlifts  &#xD;
+            4.	Dumbell Reverse Lunge  &#xD;
+            5.	Dumbell Straight-legged Deadlift  &#xD;
+            6.	Dumbell Crunches  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Leg Stretch Program  &#xD;
+        </workout>
+        <workout id="legs3">
+            1.	Elastic Barbell Squats  &#xD;
+            2.	Dumbell Lunges  &#xD;
+            3.	Elastic Leg Extensions  &#xD;
+            4.	Deadlifts (your choice)  &#xD;
+            5.	Swiss Ball Leg Curls  &#xD;
+            6.	Dumbell Calf Raises  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Leg Stretch Program  &#xD;
+        </workout>
+        <workout id="legs4">
+            1.	Elastic Leg Extensions  &#xD;
+            2.	Elastic Barbell Hack Squat  &#xD;
+            3.	Kettlebell Squat  &#xD;
+            4.	Dumbell Lunges  &#xD;
+            5.	Swiss Ball Leg Curls  &#xD;
+            6.	Dumbell Calf Raises  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Leg Stretch Program  &#xD;
+        </workout>
+        <workout id="legs5">
+            1.	Dumbell Squats  &#xD;
+            2.	Kettle Bell Squats superset with Dumbell Calf Raises  &#xD;
+            3.	Dumbell Lunges  &#xD;
+            4.	Elastic Leg Extension  &#xD;
+            5.	Weight on lap Seated Calf Raise  &#xD;
+            6.	Swiss Ball Wall Sits  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Leg Stretch Program  &#xD;
+        </workout>
+        <workout id="legs6">
+            1.	Elastic Leg Extensions  &#xD;
+            2.	Kettle Bell Squats  &#xD;
+            3.	Superset: Elastic Barbell Squats and Hacksquats  &#xD;
+            4.	Dumbell Lunges with Kickback  &#xD;
+            5.	Dumbell Stiff Leg Deadlifts  &#xD;
+            6.	Swiss Ball Leg Curl  &#xD;
+            7.	Single Leg Roller Curl  &#xD;
+            8.	Dumbell Calf Raises  &#xD;
+        </workout>
+        <workout id="legs7">
+            1.	Plate Weighted Squats  &#xD;
+            2.	Swiss Ball Leg Curl  &#xD;
+            3.	Swiss Ball Leg Dips  &#xD;
+            4.	Knee Raises + Pelvic Tilt  &#xD;
+            5.	Swiss Ball Wall Sits  &#xD;
+            6.	Plate Weighted Side Lunges  &#xD;
+            7.	Plate Weighted Calf Raises  &#xD;
+            8.	Leg Stretch Program  &#xD;
+        </workout>
+    </legs>
+    <abs>
+        <workout id="abs1">
+            1.	Back Stretch  &#xD;
+            2.	Swiss Ball Crunch  &#xD;
+            3.	Six Inches to a foot  &#xD;
+            4.	Decline Bench Sit-ups  &#xD;
+            5.	Swiss Ball Pelvic Tilt  &#xD;
+            6.	Elastic skull Crushers  &#xD;
+            7.	Plank  &#xD;
+            8.	Side-plank  &#xD;
+        </workout>
+        <workout id="abs2">
+            1.	Hanging Knee Raises  &#xD;
+            2.	Side-Bridges  &#xD;
+            3.	Sit-ups on Bench  &#xD;
+            4.	Plank  &#xD;
+            5.	Bicycle  &#xD;
+            6.	Swiss Ball Crunch  &#xD;
+            7.	Swiss Ball Pelvic Tilt  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="abs3">
+            1.	Pelvic tilt  &#xD;
+            2.	Elbows to Knees  &#xD;
+            3.	Swiss Ball Crunches  &#xD;
+            4.	Bicycle  &#xD;
+            5.	Decline Bench Crunch  &#xD;
+            6.	Elastic Skull Crushers  &#xD;
+            7.	Plank  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+    </abs>
+    <back>
+        <workout id="back1">
+            1.	Around the World Elastics  &#xD;
+            2.	Wide-grip Pull-ups  &#xD;
+            3.	Dumbell Rows  &#xD;
+            4.	Bridges  &#xD;
+            5.	Checking For Rain  &#xD;
+            6.	Dumbell Deadlifts  &#xD;
+            7.	Plank  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="back2">
+            1.	Wide-grip Pull-ups  &#xD;
+            2.	Reverse-grip Elastic Pull-downs  &#xD;
+            3.	Standing Straight Arm Elastic Lateral Pull-down  &#xD;
+            4.	Single Arm Dumbell Row  &#xD;
+            5.	Underhand Seated Elastic Rows  &#xD;
+            6.	Checking For Rain  &#xD;
+            7.	Dumbell Shoulder Shrugs  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="back3">
+            1.	Wide-grip Pull-ups  &#xD;
+            2.	Elastic rows on the Bench  &#xD;
+            3.	Bent Over Single Arm Dumbell Row  &#xD;
+            4.	Close Grip Cable Row  &#xD;
+            5.	Barbell Shrugs  &#xD;
+            6.	Checking For Rain  &#xD;
+            7.	Bodyweight Hyperextensions (skip if necessary)  &#xD;
+            8.	Calf Raises and Back Stretch Superset  &#xD;
+        </workout>
+        <workout id="back4">
+            1.	Elastic Barbell Rows  &#xD;
+            2.	Single Arm Dumbell Rows  &#xD;
+            3.	Elastic seated rows  &#xD;
+            4.	Wide-grip Pull-ups  &#xD;
+            5.	Dumbell Shrugs  &#xD;
+            6.	Elastic Barbell Shrugs  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Calf Raises  &#xD;
+        </workout>
+        <workout id="back5">
+            1.	Stiff-legged Dumbell Deadlifts  &#xD;
+            2.	Facedown Elastic Leg Curl  &#xD;
+            3.	Bodyweight Good Mornings  &#xD;
+            4.	Reverse Dumbell Lunges  &#xD;
+            5.	Hyper Extension  &#xD;
+            6.	Back Stretch  &#xD;
+            7.	Leg Roll with Foam Roller  &#xD;
+            8.	Calf Raises  &#xD;
+        </workout>
+        <workout id="back6">
+            1.	Superset: Underhand Bent-over Dumbell Rows and Close-grip Seated Elastic Rows  &#xD;
+            2.	Superset: Straight Arm Elastic Pull-downs with Rope Grip and Dumbell Pull Overs  &#xD;
+            3.	Wide-grip Pull-ups  &#xD;
+            4.	Weighted Hyper Extensions  &#xD;
+            5.	Superset: Reverse Incline Dumbell Flys and Reverse Elastic Flys  &#xD;
+            6.	Calf Raises  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Leg Stretch Program  &#xD;
+        </workout>
+        <workout id="back7">
+            1.	Back Stretch  &#xD;
+            2.	Elastic Barbell Row  &#xD;
+            3.	Wide-grip Pull-ups  &#xD;
+            4.	Plank  &#xD;
+            5.	Scapular Range of Motion  &#xD;
+            6.	Around the World Elastics  &#xD;
+            7.	Swiss Ball Pelvic Tilt  &#xD;
+            8.	Leg Stretch Program  &#xD;
+        </workout>
+        <workout id="back8">
+            1.	Back Stretch  &#xD;
+            2.	Bent-over Dumbell Rows  &#xD;
+            3.	Wide-grip Pull-ups  &#xD;
+            4.	Dumbell Deadlifts  &#xD;
+            5.	Dumbell Reverse Flys  &#xD;
+            6.	Supermans  &#xD;
+            7.	Cobra Stretch  &#xD;
+            8.	Leg Stretch Program  &#xD;
+        </workout>
+    </back>
+    <shoulders>
+        <workout id="shoulders1">
+            1.	Around the World Elastics  &#xD;
+            2.	Superset: Wide-grip Pull-ups and Pushups  &#xD;
+            3.	Superset: Rows with the rings and Lateral Dumbell Raises  &#xD;
+            4.	"Triple Set: Dumbell Flies, immediately into Dumbell Bench Press, followed by Reverse Curls"  &#xD;
+            5.	Superset: Dumbell Military Press and Dumbell Shoulder Shrug  &#xD;
+            6.	Plank  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Checking for Rain  &#xD;
+        </workout>
+        <workout id="shoulders2">
+            1.	Seated Dumbell Shoulder Press  &#xD;
+            2.	Side Lateral Elastic Raises  &#xD;
+            3.	Single Arm Front Dumbell Raise  &#xD;
+            4.	Rear Delt Elastic flys  &#xD;
+            5.	Incline Dumbell Bench Press  &#xD;
+            6.	Dumbell Flys  &#xD;
+            7.	Superset Dumbell Bench Press and Pushups  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="shoulders3">
+            1.	Incline Dumbell Bench Press  &#xD;
+            2.	Around the World Elastics  &#xD;
+            3.	Dumbell Flys  &#xD;
+            4.	Dumbell Military Press  &#xD;
+            5.	Dumbell Lateral Raise  &#xD;
+            6.	Bent-over Dumbell Reverse Flys  &#xD;
+            7.	Elastic with Bar Upright Row  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="shoulders4">
+            1.	Seated Elastic Front Press  &#xD;
+            2.	Seated Dumbell Arnold Press  &#xD;
+            3.	Bent-over Rear Delt Dumbell Flys  &#xD;
+            4.	Elastic Rear Delt Flys  &#xD;
+            5.	Standing Dumbell Lateral Raise  &#xD;
+            6.	Front Plate Raise  &#xD;
+            7.	Dumbell Calf Raise  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="shoulders5">
+            1.	Standing Lateral Side Dumbell Raises  &#xD;
+            2.	Superset: Underhand Elastic Barbell front Raise and Seated Dumbell Shoulder Press  &#xD;
+            3.	Superset: Plate Steering Wheels and Dumbell Upright Row  &#xD;
+            4.	Superset: Tricep Elastic Pushdown + Overhead Elastic Tricep Extension + Seated Dumbell Tricep Extension  &#xD;
+            5.	Swiss Ball Crunch  &#xD;
+            6.	Back Stretch  &#xD;
+            7.	Shoulder Stretch  &#xD;
+            8.	Calf Raises  &#xD;
+        </workout>
+        <workout id="shoulders6">
+            1.	Incline Dumbell Bench Press  &#xD;
+            2.	Seated Dumbell Arnold Press  &#xD;
+            3.	Dumbell Flys  &#xD;
+            4.	Front Dumbell Raises  &#xD;
+            5.	Dumbell Bench Press  &#xD;
+            6.	Dumbell Upright Rows  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Calf Raises  &#xD;
+        </workout>
+    </shoulders>
+    <chest>
+        <workout id="chest1">
+            1.	Around the World Elastics  &#xD;
+            2.	Dumbell Bench Press + Rows with the Rings  &#xD;
+            3.	Incline Bench Press + Wide-grip Pull-ups  &#xD;
+            4.	Dumbell Flys + Pushups  &#xD;
+            5.	Decline Bench Press + Swiss Ball Pushups  &#xD;
+            6.	Ab Wheel  &#xD;
+            7.	Chest Stretch + Back Stretch  &#xD;
+            8.	Calf Raises  &#xD;
+        </workout>
+        <workout id="chest2">
+            1.	Dumbell Bench Press  &#xD;
+            2.	Dumbell Flys  &#xD;
+            3.	Incline Dumbell Bench Press  &#xD;
+            4.	Vertical Dumbell Press  &#xD;
+            5.	Decline Dumbell Bench Press  &#xD;
+            6.	Pushups with Grips  &#xD;
+            7.	Back Stretches + Swiss Ball Crunches  &#xD;
+            8.	Calf Raises  &#xD;
+        </workout>
+        <workout id="chest3">
+            1.	Incline Dumbell Bench Press  &#xD;
+            2.	Around the World Elastics  &#xD;
+            3.	Dumbell Flys  &#xD;
+            4.	Dumbell Military Press  &#xD;
+            5.	Dumbell Lateral Raise  &#xD;
+            6.	Bent-over Dumbell Reverse Flys  &#xD;
+            7.	Elastic with Bar Upright Row  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="chest4">
+            1.	Seated Dumbell Shoulder Press  &#xD;
+            2.	Side Lateral Elastic Raises  &#xD;
+            3.	Single Arm Front Dumbell Raise  &#xD;
+            4.	Rear Delt Elastic flys  &#xD;
+            5.	Incline Dumbell Bench Press  &#xD;
+            6.	Dumbell Flys  &#xD;
+            7.	Superset Dumbell Bench Press and Pushups  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+        <workout id="chest5">
+            1.	Incline Dumbell Bench Press  &#xD;
+            2.	Incline Elastic Barbell Press  &#xD;
+            3.	Elastic Flys  &#xD;
+            4.	Dumbell Flys  &#xD;
+            5.	Push-up Grip and Chair Dips  &#xD;
+            6.	Barbell Elastic Curls  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Calf Raises  &#xD;
+        </workout>
+        <workout id="chest6">
+            1.	Incline Dumbell Bench Press  &#xD;
+            2.	Seated Dumbell Arnold Press  &#xD;
+            3.	Dumbell Flys  &#xD;
+            4.	Front Dumbell Raises  &#xD;
+            5.	Dumbell Bench Press  &#xD;
+            6.	Dumbell Upright Rows  &#xD;
+            7.	Back Stretch  &#xD;
+            8.	Calf Raises  &#xD;
+        </workout>
+        <workout id="chest7">
+            1.	Around the World Elastics  &#xD;
+            2.	Seated Vertical Dumbell Press  &#xD;
+            3.	Steep Incline Dumbell Bench Press  &#xD;
+            4.	Incline Dumbell Bench Press  &#xD;
+            5.	Slight Incline Dumbell Bench Press  &#xD;
+            6.	Dumbell Bench Press  &#xD;
+            7.	Decline Dumbell Bench Press  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+    </chest>
+    <hips>
+        <workout id="hips1">
+            1.	  &#xD;
+            2.	  &#xD;
+            3.	  &#xD;
+            4.	  &#xD;
+            5.	  &#xD;
+            6.	  &#xD;
+            7.	  &#xD;
+            8.	  &#xD;
+        </workout>
+    </hips>
+    <fullbody>
+        <workout id="fullbody1">
+            1.	Squats (your choice)  &#xD;
+            2.	Deadlifts (your choice)  &#xD;
+            3.	Overhead press (your choice)  &#xD;
+            4.	Bench Press (your choice)  &#xD;
+            5.	Bent Over Row (your choice)  &#xD;
+            6.	Wide-Grip Pull-up  &#xD;
+            7.	Decline Bench Crunch  &#xD;
+            8.	Back Stretch  &#xD;
+        </workout>
+    </fullbody>
+</premades>

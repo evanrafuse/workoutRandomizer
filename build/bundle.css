@@ -1,0 +1,201 @@
+html {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #FFFFFF;
+  background-color: #232323;
+}
+
+.main {
+  height: 100%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+.main__item {
+  max-width: 50%;
+}
+.main__item--top {
+  margin-top: 10px;
+  font-size: 10px;
+  color: #9d9d9d;
+  align-self: flex-start;
+}
+.main__item--bottom {
+  margin-bottom: 10px;
+  font-size: 10px;
+  color: #9d9d9d;
+  align-self: flex-end;
+}
+
+.premadeselectpage {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonpanel {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+}
+.buttonpanel__left {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+.buttonpanel__right {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background-color: #2929ff;
+  border-radius: 10px;
+  width: 10vw;
+  height: 3vw;
+  padding: 3px;
+  margin: 2px;
+  font-weight: bolder;
+  font-size: large;
+}
+
+button:nth-of-type(even) {
+  background-color: #00805a;
+}
+
+.workoutpage {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  display: none;
+}
+
+.workouttop {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.workouttitle {
+  font-size: xx-large;
+  text-align: center;
+  margin: 10px;
+  width: 50vw;
+}
+
+.workoutmiddle {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.workoutlist {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25vw;
+}
+
+.exercisepanel {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30vw;
+  margin: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+.timerpanel {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25vw;
+}
+
+.timer {
+  font-size: 90px;
+  background-color: #5c5c5c;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.timerbtn {
+  width: 7vw;
+}
+
+.pr {
+  font-size: 40px;
+  background-color: #5c5c5c;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.workoutbottom {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=bundle.css.map*/
