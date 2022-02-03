@@ -58,7 +58,10 @@ function clickedPremade(e) {
     workoutPick = workoutPreMade.concat("1");
     workouttxt = xmlObject.getElementById(workoutPick).innerHTML;
     console.log(workouttxt);
-    workouttxt = workouttxt.replace(/ &#xD;/g, "<br/>");
+    // This didn't create a new line.
+    // workouttxt = workouttxt.replace(/&#xD;/g, '<br/>');
+    // This did. Feb 3, 2022
+    workouttxt = workouttxt.replace(/\r?\n|\r/g, '<br/>');
     workoutlist.innerHTML = workouttxt;
     console.log("Just for fun, here's a line break: <br>");
     // workoutlist.innerHTML = "1. <br/> 2. <br/> 3. <br/>";

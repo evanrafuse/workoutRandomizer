@@ -10177,8 +10177,11 @@ function clickedPremade(e) {
   document.querySelector(".workoutpage").style.display = "flex";
   workoutPick = workoutPreMade.concat("1");
   workouttxt = xmlObject.getElementById(workoutPick).innerHTML;
-  console.log(workouttxt);
-  workouttxt = workouttxt.replace(/ &#xD;/g, "<br/>");
+  console.log(workouttxt); // This didn't create a new line.
+  // workouttxt = workouttxt.replace(/&#xD;/g, '<br/>');
+  // This did. Feb 3, 2022
+
+  workouttxt = workouttxt.replace(/\r?\n|\r/g, '<br/>');
   workoutlist.innerHTML = workouttxt;
   console.log("Just for fun, here's a line break: <br>"); // workoutlist.innerHTML = "1. <br/> 2. <br/> 3. <br/>";
 }
@@ -10271,7 +10274,7 @@ main();
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\evanr\OneDrive\Documents\Code Projects\theRandolorian\randoJS\node_modules\webpack-dev-server\client\index.js?http://localhost:5000 */"./node_modules/webpack-dev-server/client/index.js?http://localhost:5000");
+__webpack_require__(/*! C:\Users\Evan\Desktop\Tech Connect\Portfolio Review\workoutRandomizer\node_modules\webpack-dev-server\client\index.js?http://localhost:5000 */"./node_modules/webpack-dev-server/client/index.js?http://localhost:5000");
 module.exports = __webpack_require__(/*! ./src/main.js */"./src/main.js");
 
 
